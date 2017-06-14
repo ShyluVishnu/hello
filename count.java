@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class helllo
+class count
 {
 public static void main(String[] args)
 {
